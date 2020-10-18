@@ -3,10 +3,12 @@ Hi, my name is Eli (he/him/his), and I'm a Computer Science student at Portland 
 My academic interests are mostly programming and mathematics, but I've also been known to dabble in Economics, as well as Astronomy!
 ### - 🔭 I’m currently working on ...
 [Vector Field Generator](https://github.com/redawl/VectorOpenGL)
+
 [Simple HTTP Server](https://github.com/redawl/HTTPServer)
 
 ### - 🌱 I’m currently learning ...
 :snake: Python
+
 :tv: OpenGL
 
 ### - 👯 I’m looking to collaborate on ...
