@@ -6,10 +6,17 @@ My academic interests are mostly programming and mathematics, but I've also been
 
 [Simple HTTP Server](https://github.com/redawl/HTTPServer)
 
+### - 🥇 I'm currently close to mastering ...
+🛠 C/C++/C#
+
+💻HTML/CSS
+
 ### - 🌱 I’m currently learning ...
 :snake: Python
 
 :tv: OpenGL
+
+⚙ Bash/Command Line
 
 ### - 👯 I’m looking to collaborate on ...
 Honestly, I'm open to any project ideas at the moment, so send them my way!
