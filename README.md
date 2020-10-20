@@ -2,10 +2,11 @@
 Hi, my name is Eli (he/him/his), and I'm a Computer Science student at Portland State University, currently about three years into my Bachelors degree program. 
 My academic interests are mostly programming and mathematics, but I've also been known to dabble in Economics, as well as Astronomy!
 ### - 🔭 I’m currently working on ...
+```
 [Vector Field Generator](https://github.com/redawl/VectorOpenGL)
 
 [Simple HTTP Server](https://github.com/redawl/HTTPServer)
-
+```
 ### - 🥇 I'm currently close to mastering ...
 ```
 🛠 C/C++/C#
