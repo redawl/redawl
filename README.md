@@ -27,7 +27,6 @@ Honestly, I'm open to any project ideas at the moment, so send them my way!
 ```
 Email: elburch@pdx.edu
 LinkedIn: https://www.linkedin.com/in/eli-burch/
-Discord: redawl#2188
 ```
 <!--
 **redawl/redawl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
