@@ -13,9 +13,9 @@ My academic interests are mostly programming and mathematics, but I've also been
 ```
 ### - 🌱 I’m currently learning ...
 ```
-:snake: Python
+🐍 Python
 
-:tv: OpenGL
+📺 OpenGL
 
 ⚙ Bash/Command Line
 ```
