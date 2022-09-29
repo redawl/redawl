@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hi, my name is Eli (he/him/his), and I'm a Computer Science student at Portland State University, currently about three years into my Bachelors degree program. 
+Hi, my name is Eli (he/him/his).<br/> I am interning at Jama Software as a Software Engineer, and I'm a Computer Science student at Portland State University.<br/>
+I will be graduating in December 2022! 
 My academic interests are mostly programming and mathematics, but I've also been known to dabble in Economics, as well as Astronomy!
 ### - 🔭 I’m currently working on ...
 [Studying for the CompTIA Security+ Exam](https://www.comptia.org/certifications/security)
