@@ -1,31 +1,33 @@
 ### Hi there 👋
 Hi, my name is Eli (he/him/his).<br/> I am interning at Jama Software as a Software Engineer, and I'm a Computer Science student at Portland State University.<br/><br/>
+
 **I am looking for interesting Software Engineering roles for when I graduate in December.**
-
-
 ---
 My academic interests are mostly programming and mathematics, but I've also been known to dabble in Economics, as well as Astronomy.
 ### - 🔭 I’m currently working on ...
+**Completing My B.S. in Computer Science (Last term, woo!)**
+
 [Studying for the CompTIA Security+ Exam](https://www.comptia.org/certifications/security)
 
-[Working my way through HackTheBox](https://app.hackthebox.eu/users/515452)
-### - 🥇 I'm currently close to mastering ...
+[Working my way through the HackTheBox Bug Bounty Hunter Path](https://academy.hackthebox.com/exams/2/)
+### - 🥇 Top Skills ...
 ```
+☕ Java
+
+🐍 Python
+
 🛠 C/C++/C#
 
-💻HTML/CSS
 ```
 ### - 🌱 I’m currently learning ...
 ```
 🔒 Cyber Security
 
-🐍 Python
-
 ⚙ Bash/Command Line
 ```
 ### - 👯 I’m looking to collaborate on ...
 ```
-Honestly, I'm open to any project ideas at the moment, so send them my way!
+I'm open to any project ideas, but if it's Security or Machine Learning related, you will really catch my interest!
 ```
 ### - 📫 How to reach me: ...
 ```
