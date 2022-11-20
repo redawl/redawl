@@ -7,9 +7,9 @@ My academic interests are mostly programming and mathematics, but I've also been
 ### - 🔭 I’m currently working on ...
 **Completing My B.S. in Computer Science (Last term, woo!)**
 
-[Studying for the CompTIA Security+ Exam](https://www.comptia.org/certifications/security)
+[Learning the Spring Framework](https://spring.io/)
 
-[Working my way through the HackTheBox Bug Bounty Hunter Path](https://academy.hackthebox.com/exams/2/)
+[Building a Full Stack Grade Calculator App](https://github.com/redawl/Grade-Calc)
 ### - 🥇 Top Skills ...
 ```
 ☕ Java
@@ -21,6 +21,8 @@ My academic interests are mostly programming and mathematics, but I've also been
 ```
 ### - 🌱 I’m currently learning ...
 ```
+🍃 Java Spring (Boot, Data REST, Security)
+
 🔒 Cyber Security
 
 ⚙ Bash/Command Line
