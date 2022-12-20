@@ -1,10 +1,9 @@
 ### Hi there 👋
-Hi, my name is Eli (he/him/his).<br/> I am interning at Jama Software as a Software Engineer, and I'm a Computer Science student at Portland State University.<br/><br/>
+Hi, my name is Eli (he/him/his).<br/> I am a Junior Java Developer at Pivotal IT Services.<br/><br/>
 
 ---
 My academic interests are mostly programming and mathematics, but I've also been known to dabble in Economics, as well as Astronomy.
 ### - 🔭 I’m currently working on ...
-**Completing My B.S. in Computer Science (Last term, woo!)**
 
 [Learning the Spring Framework](https://spring.io/)
 
