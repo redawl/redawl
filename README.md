@@ -9,6 +9,7 @@ Too many things to count. Generally:
 - Hardware Hacking
 - React Frontend/Spring-boot backend web design
 - Privacy/Security understanding
+- Financial Literacy
 - ...
 
 ### - 📫 How to reach me: ...
