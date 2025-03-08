@@ -6,10 +6,9 @@ My academic interests are mostly programming and mathematics, but I've also been
 ### - 🔭 I’m currently working on ...
 
 Too many things to count. Generally:
+- Golang!
+- Fyne UI toolkit
 - Hardware Hacking
-- React Frontend/Spring-boot backend web design
-- Privacy/Security understanding
-- Financial Literacy
 - ...
 
 ### - 📫 How to reach me: ...
